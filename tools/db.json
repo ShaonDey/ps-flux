@@ -93,6 +93,22 @@
       "authorId": 2,
       "category": "Test data 3",
       "createdAt": 1586785531633
+    },
+    {
+      "id": 14,
+      "slug": "test-validation-title",
+      "title": "Test validation title",
+      "authorId": 2,
+      "category": "Test validation category",
+      "createdAt": 1586786232777
+    },
+    {
+      "id": 15,
+      "slug": "2",
+      "title": "2",
+      "authorId": 1,
+      "category": "23",
+      "createdAt": 1586786242355
     }
   ],
   "authors": [
